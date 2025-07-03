@@ -1,0 +1,23 @@
+export const Colors = {
+  background: '#0a0e1a',
+  surface: '#131827',
+  surfaceVariant: '#1a1f36',
+  primary: '#00d26a',
+  primaryDark: '#00b359',
+  secondary: '#6366f1',
+  accent: '#f59e0b',
+  text: '#ffffff',
+  textSecondary: '#e5e7eb',
+  textMuted: '#9ca3af',
+  border: '#374151',
+  error: '#ef4444',
+  warning: '#f59e0b',
+  success: '#00d26a',
+  cardBackground: '#1f2937',
+  modalBackground: 'rgba(0, 0, 0, 0.85)',
+  gradient: {
+    primary: ['#00d26a', '#00b359'],
+    secondary: ['#6366f1', '#8b5cf6'],
+    dark: ['#0a0e1a', '#131827'],
+  },
+};
